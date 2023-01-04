@@ -4,7 +4,6 @@ I'm Rustam Khasanshin, a Golang developer based in Prague. Writing software is p
 
 Also had experience with Ruby and Ruby on Rails and some front-end development. 
 
-- 💻 I’m currently working on [WebMoney](https://web.money)
 - 🌱 I’m currently continue learning Golang
 - 🇬🇧 I’m currently continue improving my English with Kyle on [Preply](https://preply.com/en/?pref=MjY0NzkxMw==&id=1657378668.212574)  
 - 🇨🇿 And learning Czech with [Tata](https://t.me/korolevskaya)  
